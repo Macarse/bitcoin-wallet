@@ -74,7 +74,7 @@ import de.schildbach.wallet.util.CrashReporter;
 import de.schildbach.wallet.util.EncryptionUtils;
 import de.schildbach.wallet.util.Iso8601Format;
 import de.schildbach.wallet.util.WalletUtils;
-import de.schildbach.wallet_test.R;
+import de.schildbach.wallet.R;
 
 /**
  * @author Andreas Schildbach
